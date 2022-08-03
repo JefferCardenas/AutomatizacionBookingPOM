@@ -1,0 +1,40 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="17.83924099999666">
+<testsuite name="search_accommodation.spec.ts" timestamp="1659133063504" hostname="" tests="1" failures="0" skipped="0" time="16.142" errors="0">
+<testcase name="
+Given I am on the main booking page
+When looking for accommodation
+Then I see the available accommodations
+" classname="[chromium] › search_accommodation.spec.ts:25:1 › 
+Given I am on the main booking page
+When looking for accommodation
+Then I see the available accommodations
+" time="16.142">
+<system-out>
+<![CDATA[****HOTELES MAS CERCANOS A LA PLAYA****
+HOTEL -->COP 576.000
+HOTEL -->COP 700.000
+HOTEL -->COP 1.584.000
+HOTEL -->COP 880.000
+HOTEL -->COP 596.000
+HOTEL -->COP 1.800.000
+HOTEL -->COP 1.260.000
+HOTEL -->COP 870.000
+HOTEL -->COP 842.400
+HOTEL -->COP 1.680.000
+HOTEL -->COP 1.266.000
+HOTEL -->COP 3.420.000
+HOTEL -->COP 920.000
+HOTEL -->COP 900.000
+HOTEL -->COP 566.280
+HOTEL -->COP 1.440.000
+HOTEL -->COP 2.419.200
+HOTEL -->COP 1.800.000
+HOTEL -->COP 2.200.000
+HOTEL -->COP 960.000
+
+[[ATTACHMENT|..\test-results\search_accommodation--Given-I-am-on-the-main-b-652c0-dation-Then-I-see-the-available-accommodations--chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
